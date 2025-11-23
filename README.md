@@ -2,7 +2,7 @@
 
 **Volapuk** (pronounced *Vo La Puke*) is a convenient Docker image that provides a ready-made development environment to experiment with Large Language Models (LLMs) and fine-tune Llama-style LLMs locally on a Windows PC equipped with an Nvidia RTX GeForce 30 series GPU.
 
-The name Volapuk is a homage to the world's [first synthetic language](https://en.wikipedia.org/wiki/Volap%C3%BCk). Partly inspired by another LLM fine-tuning environment [Kolo](https://github.com/MaxHastings/Kolo), Volapuk is composed of and named after the most popular tools being used, as of 2025, for serving and fine-tuning LLMs locally:
+The name Volapuk is a homage to the [world's first auxlang](https://en.wikipedia.org/wiki/Volap%C3%BCk). Partly inspired by another LLM fine-tuning environment [Kolo](https://github.com/MaxHastings/Kolo), Volapuk is composed of and named after the most popular tools being used, as of 2025, for serving and fine-tuning LLMs locally:
 
 - <span style="color: violet">**V**</span> - **vLLM**, a high performance engine for serving LLMs and interacting with LLMs
 - <span style="color: indigo">**O**</span> - **Ollama** for serving and interacting with LLMs
